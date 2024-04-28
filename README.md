@@ -1,4 +1,4 @@
-# Yelp Pulse: Tracking Business Sentiments Over Time (IN PROGRESS)
+# Yelp Pulse: Developing "Positive" v "Negative" mentions from Yelp reviews for deeper sentiment understanding, leveraging LDA and BERT.
 
 ## Problem Statement & Context
 Enhance business owner and customer interactions on Yelp by implementing a "review tags" feature based on sentiment analysis. This feature categorizes reviews into positive, neutral, and negative sentiments and highlights common themes to facilitate better decision-making and improve user engagement.
