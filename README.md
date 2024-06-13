@@ -1,4 +1,4 @@
-# Yelp Pulse: Yelp Review Summarizer: Topic Modeling and Sentiment Analysis Using BERT
+# Yelp Review Summarizer: Topic Modeling and Sentiment Analysis Using BERT
 
 ## Problem Statement & Context
 Enhance business owner and customer interactions on Yelp by implementing a "review tags" feature based on sentiment analysis. This feature categorizes reviews into positive, neutral, and negative sentiments and highlights common themes to facilitate better decision-making and improve user engagement.
